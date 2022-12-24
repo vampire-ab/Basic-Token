@@ -1,0 +1,19 @@
+To compile and deploy the contract using Remix:
+
+1. Open Remix (https://remix.ethereum.org/) and paste the contract code into the Solidity compiler.
+2. Click the "Compile" button to compile the contract.
+3. In the "Deploy & Run Transactions" tab, select "Injected Web3" as the environment.
+4. Select the contract from the dropdown menu and click "Deploy".
+5. In the "Transaction Details" modal, enter the necessary constructor arguments (name, symbol, decimals, and total supply) and click "Submit".
+
+To interact with the front-end:
+1. Connect the wallet (Metamask).
+2. Set amount, to address and transact.
+
+Deployed contract with: 0xEdD428940534166d830f4223D170D0B908987564
+Contract Address: 0xabD24575CB573B5eA01D39AcbE3E1ed73e06B953
+
+After a few transactions from front-end: 
+Balances are as: 
+  0xEdD428940534166d830f4223D170D0B908987564 => 9897
+  0x1d595281352F8897cd2Cf2ca454c91871593EfA1 => 103
